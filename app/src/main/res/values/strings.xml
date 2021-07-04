@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Catering</string>
+    <string name="namaApp">CATERING</string>
+    <string name="btLogin">LOGIN</string>
+    <string name="btDaftar">Register</string>
+    <string name="txtDaftar">REGISTER</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPhone">Phone Number</string>
+    <string name="txtName">Name</string>
+    <string name="txtCatA">Catering A</string>
+    <string name="txtCatB">Catering B</string>
+    <string name="txtPaketA">Menu A</string>
+    <string name="txtPaketB">Menu B</string>
+    <string name="txtHarga">Price</string>
+    <string name="txtMenu">Detail Menu</string>
+    <string name="txtAlamat">Address</string>
+    <string name="txtTanggal">Date</string>
+    <string name="txtJam">Time</string>
+    <string name="txtJumlah">Sum</string>
+    <string name="btConfirm">Confirm</string>
+    <string name="txtTotal">Total Price</string>
+
+</resources>
